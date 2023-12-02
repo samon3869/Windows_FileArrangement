@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "93b50c3a8500cea2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ade24ebb73af030",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dce0296b73d7c891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readings/회계감사/1 장 회계감사의 개요.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1d6a3b18cf98179",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9b7df82a4115893b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0b265462a71d7bf5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ccd9c3a976e7b165",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "40ec8f40caefb9a1",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3db27eca3ffe64a1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9780558b5f8e7110",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Readings/회계감사/1 장 회계감사의 개요.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "764bc3d89f516b67",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Readings/회계감사/1 장 회계감사의 개요.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7d645634a0827c9c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Readings/회계감사/1 장 회계감사의 개요.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "dce0296b73d7c891",
+  "lastOpenFiles": [
+    "Readings/회계감사/핵심개념카드/회계감사기준.md",
+    "Readings/회계감사/핵심개념카드/전문가적의구심.md",
+    "Readings/회계감사/1 장 회계감사의 개요.md",
+    "0. inbox/경영진주장.md",
+    "Readings/회계감사/핵심개념카드/전문가적판단.md",
+    "0. inbox/Untitled.md",
+    "Templates/Zettelkansten.md",
+    "Readings/모두의네트워크 1.md",
+    "Readings/모두의 네트워크 3.md",
+    "Readings/모두의 네트워크 2.md"
+  ]
+}

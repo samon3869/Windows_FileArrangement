@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "7f25f5995a8b2011",
+    "type": "split",
+    "children": [
+      {
+        "id": "418acb6156c2e0ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "039d475805918885",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "114b1ec565a7778d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f3624f288babb66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "610c1bf7671e7e17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23430365190830ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1af7af03aa8a8e97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df13a4a62b701a75",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec276ede48d8e8b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f62f5ca313c551",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fcd3f1344b221f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3fe531d214a6040a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7fd56ab83ea98974",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "261f76a8aaee70ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "039d475805918885",
+  "lastOpenFiles": [
+    "학습내용정리.md",
+    "example_os.py",
+    "51주차 보고서 폴더",
+    "50주차 보고서 폴더",
+    "49주차 보고서 폴더",
+    "48주차 보고서 폴더",
+    "47주차 보고서 폴더",
+    "46주차 보고서 폴더",
+    "45주차 보고서 폴더",
+    "44주차 보고서 폴더",
+    "43주차 보고서 폴더"
+  ]
+}
