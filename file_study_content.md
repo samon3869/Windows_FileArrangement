@@ -191,7 +191,7 @@ os.remove('codeit_report.txt')
 
 import zipfile
 
-with zipfile.ZipFile("favorite.zip", "w", compression=zipfile.ZIP_DEFLATED) as zip:
+with zipfile.ZipFile("favorite.zip", "w", compression=zipfile.ZIP_DEFLATED) as zip: # compression 옵션을 넣어줘야 용량을 줄이면서 압축할 수 있음에 주의
     zip.write("내가 좋아하는 노래.txt")
     zip.write("하품하는 고양이.jpeg")
 
@@ -199,5 +199,5 @@ with zipfile.ZipFile("favorite.zip", "w", compression=zipfile.ZIP_DEFLATED) as z
 import zipfile
 
 with zipfile.ZipFile("favorite.zip", "r") as zip:
-    zip.extractall("data")
+    zip.extractall("data") # data 폴더에 저장
 ```
