@@ -179,3 +179,4 @@ now_format = now.strftime('%Y/%m/%d %H시 %M분 %S초')
 
 print(now_format)  # 2021/06/23 19시 42분 49초
 ```
+
